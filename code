@@ -1,0 +1,306 @@
+<html lang="en">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha384-jagVEcgu+Wi5KtPWNhJVdGw0viXjdNJeNwg/uWUmN5STEnV51DgmZ2hZvgNWj+X8" crossorigin="anonymous"></script>
+    
+
+<p class="text-intro pstyle"> this is the final version. use this for upload </p>
+
+
+
+
+
+<!-- CODE STARTS HERE -->
+
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/L2006Bird/Javafiles/styling.css" />
+
+    <div id="id609ddb55afbc6" a='{"t":"r","v":"1.2","lang":"en","locs":[730],"ssot":"c","sics":"ms","cbkg":"rgba(34,34,34,1)","cfnt":"#FFFFFF","codd":"#000000","cont":"#E0E0E0","sfnt":"t","stof":"5"}'>Weather Data Source: <a href="https://sharpweather.com/weather_toronto/30_days/">weather Toronto 30 days</a></div><script async src="https://static1.sharpweather.com/widgetjs/?id=id609ddb55afbc6"></script>
+
+
+
+<!-- HOMEPAGEVIDEO -->
+
+<script src="https://use.typekit.net/vzm2jgj.js"></script><script>try{Typekit.load();}catch(e){}</script></head><body class="home page-template page-template-template-full-width page-template-template-full-width-php page page-id-196 tribe-no-js"><div class="header__audience">  </span> </li></div></div></div></div></div></header><button type="button" onclick="playPause()">Play/Pause</button><div class="lazyload hero hero--overlay" data-bg="" style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"><div class="hero__video"><video id="video1" muted loop autoplay playsinline>
+    <source src="https://schoolweb.tdsb.on.ca/Portals/training9/DMCI%20Promo%20Video%20(4).mp4?ver=nQbNErDcahIw2W45UlHyEQ%3d%3d" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+
+    <script> 
+        var myVideo = document.getElementById("video1"); 
+        
+        function playPause() { 
+          if (myVideo.paused) 
+            myVideo.play(); 
+          else 
+            myVideo.pause();
+         
+
+        } 
+         
+        </script> 
+        
+    </body>
+
+    </html></div>
+    
+<!-- OVERLAY TEXT ON VIDEO & ADDITIONAL FORM BUTTON -->
+
+
+    <html lang="en" class="htmlstyle">
+    
+    <div class="hero__overlay"><div class="container hero__container hero__container--center "><h1 class="hero__title h1style" style="color: #9cbed1 !important;">Changing lives since 1959</h1>
+        
+    <div class="hero__buttons hero__buttons--alt--large">   <a href="/training9/formv9" class="hero__button button h5style highlight" > <span>Request Info</span> <span class='svg svg--icon-chat hero__button__icon'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23"><path d="M6 6h10v1H6zm0 4h10v1H6z"/><path d="M22.4 0H.6C.3 0 0 .3 0 .6v16.6c0 .3.3.6.6.6h8.6l4.9 4.9c.2.2.4.3.7.3.1 0 .3 0 .4-.1.3-.1.4-.5.4-.8l-.1-4.3h6.9c.2 0 .3-.1.4-.2.1-.1.2-.3.2-.4V.6c0-.3-.3-.6-.6-.6zm-.6 16.6h-6.9c-.2 0-.3.1-.4.2-.1.1-.2.3-.2.4l.1 4.1-4.6-4.5c-.1-.1-.3-.2-.4-.2H1.2V1.2h20.6v15.4z"/></svg> </span> </a></div></div></div></div><div class="container"><div class="text-center"><h2 class="h1 heading-underline-red heading-inline h1style">Through knowledge, all things are possible</h2></div><div class="feature"><div class="feature__media"> 
+    
+<!-- ART/MAIN IMG #1 TO CHANGE: REPLACE THE IMG LINKS WITH DESIRED IMG LINK -->
+    
+    <noscript><img width="600" height="338" src="https://schoolweb.tdsb.on.ca/Portals/training9/images2/donmills_longxi_lin_broken_crayons_hires.jpg?ver=QXsSRIvX8pNXW0EZU6G9gQ%3d%3d" 
+            
+    class="attachment-large-rect size-large-rect wp-post-image" alt="congrats image" loading="lazy" srcset=
+    
+    "https://schoolweb.tdsb.on.ca/Portals/training9/images2/donmills_longxi_lin_broken_crayons_hires.jpg?ver=QXsSRIvX8pNXW0EZU6G9gQ%3d%3d 
+    
+    600w," sizes="(max-width: 600px) 100vw, 600px" /></noscript><img width="600" height="338" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20338%22%3E%3C/svg%3E' data-src=
+    
+    "https://schoolweb.tdsb.on.ca/Portals/training9/images2/donmills_longxi_lin_broken_crayons_hires.jpg?ver=QXsSRIvX8pNXW0EZU6G9gQ%3d%3d" 
+    
+    class="lazyload attachment-large-rect size-large-rect wp-post-image" alt="DMCI COVER IMAGE" loading="lazy" data-srcset=
+    
+    "https://schoolweb.tdsb.on.ca/Portals/training9/images2/donmills_longxi_lin_broken_crayons_hires.jpg?ver=QXsSRIvX8pNXW0EZU6G9gQ%3d%3d 
+    
+    600w, 
+    
+    420w" data-sizes="(max-width: 600px) 100vw, 600px" /></div><div class="feature__content  zero"><h3 class="text-title-small h3style">Amazing artwork by our CyberARTS students! </h3><p class="text-intro pstyle" >This amazing artwork was made by one of our awesome CyberARTS students </p><p class="text-tag feature__tags pstyle"> </p> <button class="button button--square feature__button" data-minimodal data-minimodal-selector=".minimodal-selector--RedefinePossible-0" data-minimodal-rootClass="minimodal--scroll" aria-label="Read More about Don Mills CI"> <span class="button__wrapper"> <span class='svg svg--icon-plus button__icon'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26"><path fill-rule="evenodd" d="M14 0h-2v12H0v2h12v12h2V14h12v-2H14" clip-rule="evenodd"/></svg> </span> </span> </button></div></div><div class="minimodal-selector minimodal-selector--RedefinePossible-0"><div class="container"><div class="modal-story"><div class="modal-story__content zero">
+    
+    
+    <p class="text-intro pstyle">This amazing artwork was made by one of our awesome CyberARTS students Longxi Lin </p>
+
+
+</div><aside class="modal-story__meta"> <noscript><img width="600" height="408" src=
+
+    
+    "https://schoolweb.tdsb.on.ca/Portals/training9/images2/donmills_longxi_lin_broken_crayons_hires.jpg?ver=QXsSRIvX8pNXW0EZU6G9gQ%3d%3d"
+
+    
+    class="attachment-large-rect size-large-rect wp-post-image" alt="cover" loading="lazy" srcset="
+
+
+    
+    https://schoolweb.tdsb.on.ca/Portals/training9/images2/donmills_longxi_lin_broken_crayons_hires.jpg?ver=QXsSRIvX8pNXW0EZU6G9gQ%3d%3d 
+    
+    
+    600w" /></noscript>
+    
+<img width="600" height="700" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20338%22%3E%3C/svg%3E' data-src="
+
+
+
+
+https://schoolweb.tdsb.on.ca/Portals/training9/images2/donmills_longxi_lin_broken_crayons_hires.jpg?ver=QXsSRIvX8pNXW0EZU6G9gQ%3d%3d" 
+
+
+
+class="lazyload attachment-large-rect size-large-rect wp-post-image" alt="cover img" loading="lazy" data-srcset="https://schoolweb.tdsb.on.ca/Portals/training9/images2/donmills_longxi_lin_broken_crayons_hires.jpg?ver=QXsSRIvX8pNXW0EZU6G9gQ%3d%3d 600w" data-sizes="(max-width: 600px) 100vw, 600px" /><p class="text-small pstyle"></p><ul class="modal-story__more"><li class="modal-story__more__item"> </li></ul></aside></div></div></div>
+
+<!-- ART/MAIN IMGS #2 TO CHANGE: REPLACE THE IMG LINKS WITH DESIRED IMG LINK -->
+
+
+<div class="feature"><div class="feature__media"> <img width="600" height="366" class="lazyload attachment-large-rect size-large-rect wp-post-image" alt="img" loading="lazy" data-srcset=
+    
+    "https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530 600w, " 
+    
+    
+    
+    
+    
+    data-sizes="(max-width: 600px) 100vw, 600px" /></div><div class="feature__content feature__content--alt zero">
+    
+    <p class="text-intro pstyle">Welcome to the DMCI Website!</p>
+    
+    <p class="text-tag feature__tags pstyle"> </p> <button class="button button--square feature__button" data-minimodal data-minimodal-selector=".minimodal-selector--RedefinePossible-1" data-minimodal-rootClass="minimodal--scroll" aria-label="Read More about Don Mills CI"> <span class="button__wrapper"> <span class='svg svg--icon-plus button__icon'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26"><path fill-rule="evenodd" d="M14 0h-2v12H0v2h12v12h2V14h12v-2H14" clip-rule="evenodd"/></svg> </span> </span> </button></div></div><div class="minimodal-selector minimodal-selector--RedefinePossible-1"><div class="container"><div class="modal-story"><div class="modal-story__content zero"><p class="text-intro">Welcome to the DMCI website!!</p></div><aside class="modal-story__meta"> <noscript>
+    
+    
+<img width="600" height="366" src="https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530" class="attachment-large-rect size-large-rect wp-post-image" alt="img" loading="lazy" srcset="https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530 600w, https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530 300w, https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530 420w" sizes="(max-width: 600px) 100vw, 600px" /></noscript>
+
+<img width="600" height="366" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20366%22%3E%3C/svg%3E' data-src="https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530" class="lazyload attachment-large-rect size-large-rect wp-post-image" alt="img" loading="lazy" data-srcset="https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530 600w, https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530 300w, https://schoolweb.tdsb.on.ca/portals/donmillsci/images/DON%20MILLS.png?ver=2022-06-13-132705-530 420w" data-sizes="(max-width: 600px) 100vw, 600px" />
+
+<p class="text-small"></p><ul class="modal-story__more"><li class="modal-story__more__item"> <a class="modal-story__more__link" href="" > <span class='svg svg--icon-arrow-right modal-story__more__icon'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M99.533 50.89c0-.467.467-.934.467-1.4 0-.47 0-.936-.467-1.403v-.468s0-.47-.468-.47L75.7 18.18c-1.4-1.402-3.27-1.87-5.14-.467-1.4 1.402-1.868 3.27-.467 5.14l18.692 23.365H3.738c-1.87 0-3.738 1.4-3.738 3.738 0 1.87 1.402 3.738 3.738 3.738h85.514L70.562 77.06c-1.403 1.4-.936 3.737.466 5.14.467.466 1.402.934 2.336.934.935 0 1.87-.468 2.804-1.402L99.533 52.76c-.468-.935-.468-1.402 0-1.87 0 .468 0 0 0 0z"/></svg> </span> Welcome to Don Mills CI! </a></li></ul></aside></div></div></div></div>
+
+
+<!-- INFORMATION GRID -->
+
+<div class="types-stacked"><div class="container text-center zero"><h2 class="h1 heading-underline-red heading-inline h2style">Your story starts here</h2></div><div class="types-stacked__grid"> <a href="https://www.tdsb.on.ca/Find-your/Schools/schno/3415" class="types-stacked__item types-stacked__item--large" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/w_don%20mills%20ci.jpg?ver=b4NmZm7ZHpiCoY5WK-pb3g%3d%3d');" ><div class="types-stacked__interior zero"><h3 class="h4 types-stacked__title h4style" style="color: #c1c0c0;">About Us</h3><div class="types-stacked__description"><p class="text-intro">Omnia Per Scientiam -Through knowledge, all things are possible.</p></div></div> </a> <a href="https://www.tdsb.on.ca/High-School/Going-to-High-School/Beyond-8" class="types-stacked__item types-stacked__item--large" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20Copy%20of%20IMG_3471.JPG?ver=1wBt655IkOrfwQXtq9yCjQ%3d%3d');" ><div class="types-stacked__interior zero"><h3 class="h3style types-stacked__title">New Students</h3><div class="types-stacked__description"><p class="text-intro">Your next chapter starts here. Discover our many rigorous but flexible courses.</p></div></div> </a></div><div class="types-stacked__grid"> <a href="https://www.tdsb.on.ca/High-School/Guidance/Academic-Pathways" class="types-stacked__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20DSC00783.JPG?ver=yDn1z7lkWK0yX98TNbssYQ%3d%3d');" ><div class="types-stacked__interior zero"><h3 class="h5style types-stacked__title" style="color: #c1c0c0;">Pathways</h3><div class="types-stacked__description"><p class="text-intro">Discover our numerous creative and skill-inspiring pathways for post secondary, the trades, and direct entry to the workforce.</p></div></div> </a> <a href="http://www.cyberarts.ca/" class="types-stacked__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/DOtA7lOVAAA8yV6.jpg?ver=qUhjVuqy7VrQjvSTKdbZNA%3d%3d');" ><div class="types-stacked__interior zero"><h3 class="h5style types-stacked__title" style="color: #c1c0c0;">Cyberarts Information</h3><div class="types-stacked__description"><p class="text-intro">CyberARTS is an interdisciplinary program blending the Ontario curriculum with art and technology while fulfilling curriculum requirements.</p></div></div> </a> <a href="https://www.tdsb.on.ca/Learning-Equity-and-Well-Being/Special-Education-and-Inclusion" class="types-stacked__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20DSC00793.JPG?ver=lsLH-KaluFpwlYmLpBppcA%3d%3d');" ><div class="types-stacked__interior zero"><h3 class="h5style types-stacked__title" style="color: #c1c0c0;">Special Education</h3><div class="types-stacked__description"><p class="text-intro">Don Mills Collegiate is proud to offer a number of Intensive Support Programs in the area of Gifted and Developmental Disabilities.</p></div></div> </a> <a href="/training9/Green-Industries-12" class="types-stacked__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/GREENINDUSTRIES.jpg?ver=SURnPs6GTW1gVfBdrzXSAg%3d%3d');" ><div class="types-stacked__interior zero"><h3 class="h5style types-stacked__title" style="color: #c1c0c0;">Green Industries Information</h3><div class="types-stacked__description"><p class="text-intro"> The Green Industry involves pursuing sustainable economic growth through green public investments.</p></div></div> </a></div></div>
+
+
+
+<!-- 3D MAP -->
+<div class="campus-details"><div class="container"><div class="text-center zero"><h2 class="h1 h1style heading-underline-red heading-inline">Explore our campus with a 3d interactive map</h2>
+
+
+
+    <script>
+        function changeText(text) {
+
+document.getElementById('chgtext').innerHTML = text;
+
+}
+    </script>
+	<meta name="generator" content="Geany 1.37.1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="/portals/training9/jquery-3.6.0.js"></script>
+    
+	
+	
+
+     <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.1.3/webcomponents-loader.js"></script> 
+
+	 <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script> 
+
+    
+	<script src="https://unpkg.com/resize-observer-polyfill@1.5.0/dist/ResizeObserver.js"></script> 
+
+   <script src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js" defer></script>
+</head>
+
+
+
+
+<body>
+    
+
+	
+
+
+    <div class="sketchfab-embed-wrapper">
+        <iframe id="sketchfab-iframe" title="First Floor" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/7da13d1a773d43ecad737faf2c32d813/embed" width="1000" height="500" style="position:relative; right: 100px !important;"></iframe>
+    </div>
+    <button type="button" id="changeIframe">Switch Floor</button>
+    <script>
+        const iframe = document.getElementById("sketchfab-iframe");
+        const button = document.getElementById("changeIframe");
+        
+        const iframeUrls = [
+            "https://sketchfab.com/models/62ed88b0dc40427a969d1bc1c8f822dc/embed",
+            "https://sketchfab.com/models/7da13d1a773d43ecad737faf2c32d813/embed"
+        ];
+        
+        let currentIndex = 0;
+
+        button.addEventListener("click", () => {
+            // Update the src attribute of the iframe with the next URL in the array
+            iframe.src = iframeUrls[currentIndex];
+            
+            // Toggle the currentIndex between 0 and 1
+            currentIndex = (currentIndex === 0) ? 1 : 0;
+        });
+    </script>
+</div>
+
+
+	
+
+<div class="campus-details__content zero"><p class="text-intro">
+
+    Don Mills is a beautiful school comprised of strong student leadership and an athletic program with a caring community of parents and caregivers. 
+    Explore our campus through our 3d map viewer (Right click to pan around). For a text-based map, visit this link: <a href="https://docs.google.com/document/d/1syQI8OkBaBAZkYOwO6YCZSSaSSuTuFyV1n1ubPi-HXw/edit?usp=sharing" class="blue-link">https://docs.google.com/document/u/4/d/1syQI8OkBaBAZkYOwO6YCZSSaSSuTuFyV1n1ubPi-HXw/edit?usp=sharing</a></p></div></div></div>
+    
+    
+    
+
+<!-- COURSE DETAIL GRID --> 
+
+<div class="text-center zero"><h2 class="h1 h1style heading-underline-red heading-inline" style="right: -100px!important; color:#000!important">Explore our Departments</h2></div>
+
+
+<div class="campus-details__grid"> <a href="/training9/Mathematics-12" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20DSC00805.JPG?ver=tsMRAP5YH0MGPP1305gF5w%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">Mathamatics</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">Mathamatics Contests</li><li class="campus-details__list__item">Matamatics Policy</li></ul></div> </a> 
+
+<a href="/training9/English-12" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20Copy%20of%20DSC00626.JPG?ver=Q8mJ0YsdhZQr7kmLnevbmw%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">ENGLISH</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">educational policies</li><li class="campus-details__list__item"></li></ul></div> </a> 
+
+<a href="/training9/Science-12" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20DSC00801.JPG?ver=b46BZoZy510EcSJcwleTQg%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">Science</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">educational policies</li><li class="campus-details__list__item">educational policies</li></ul></div> </a> 
+
+<a href="/training9/Other-Languages-12" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/global-studies.jpg?ver=UqHH0t1iuibJg4cf5viABg%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">ESL/Languages</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">educational policies</li><li class="campus-details__list__item">educational policies</li></ul></div> </a> 
+
+<a href="/training9/Green-Industries-12" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Green%20Industries%20Crops.png?ver=bGu_6ajL50QfOcqa7rJemw%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">Connections and Innovation</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">educational policies</li><li class="campus-details__list__item">educational policies</li></ul></div> </a> 
+
+<a href="/training9/Computer-Science-12" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20DSC00776.JPG?ver=fgYj_F00rVKpwEbyvZv7kw%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">Computer Technology</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">Alumini</li><li class="campus-details__list__item">Computer Policy</li></ul></div> </a> 
+
+<a href="/training9/The-Arts-12" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20Copy%20of%2020221108_121604.jpg?ver=sRQwur7yz7f0DqeSE48zEA%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">The Arts</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">Business Studies<li class="campus-details__list__item">Arts Policy</li></ul></div> </a>
+
+<a href="/training9/Business-12" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/imageforbuss%20(1).jpg?ver=qu7wTgg2Yuifafay9kti3g%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">Business</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">educational policies</li> <li class="campus-details__list__item">educational policies</li></ul></div> </a> 
+
+<a href="/training9/Healthy-Active-Living" class="campus-details__item" style="background-image: url('https://schoolweb.tdsb.on.ca/Portals/training9/images2/Copy%20of%20Copy%20of%20Copy%20of%20IMG_0885.JPG?ver=2VZCBlXSPH7rAjs0J8cJTw%3d%3d');" ><div class="campus-details__interior zero"><h3 class="h3style heading-flush">Healthy and Active Living</h3><ul class="campus-details__list"><li class="campus-details__list__item">Pathways</li><li class="campus-details__list__item">educational policies</li> <li class="campus-details__list__item">educational policies</li></ul></div> </a>  </div> </div></div>
+
+<!-- COURSES/PROGRAMS/DEPARTMENTS -->
+
+<div class="groups">
+  <div class="container">
+    <div class="groups__nav" style="margin-right: 10px;">
+        <div class="groups__nav__item h5style" style="margin-right: 10px;">
+          <span class="groups__nav__number">3</span> Programs
+        </div>
+        <div class="groups__nav__item h5style" style="margin-right: 10px;">
+          <span class="groups__nav__number">10+</span> Departments
+        </div>
+        <div class="groups__nav__item h5style" style="margin-right: 10px;">
+          <span class="groups__nav__number">160+</span> Courses
+        </div>
+      </div>
+      </div>
+      <div class="text-center zero">
+        <div class="groups__content">
+          <div class="groups__content__item zero">
+            <ul class="groups__list">
+              <li class="groups__list__item">
+                <a href="http://www.cyberarts.ca/" class="groups__list__link">Cyber ARTS program</a>
+              </li>
+              <li class="groups__list__item">
+                <a href="https://schoolweb.tdsb.on.ca/donmillsci/Gifted-Program" class="groups__list__link">Gifted Program</a>
+              </li>
+              <li class="groups__list__item">
+                <a href="https://schoolweb.tdsb.on.ca/donmillsci/Departments/Connections-and-Innovation" class="groups__list__link">Green Industries Program</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</ul></div></ul></div></div></div>
+
+
+
+<!-- SOCIAL MEDIA FEED -->
+
+<div class="container"><div class="juicer text-social">
+<iframe src='https://www.juicer.io/api/feeds/donmillsci-4eeb8f33-7179-445d-8f58-9813b93ec4d7/iframe?per=6?truncate=140' frameborder='0' width='1000' height='1000' style='display:block;margin:0 auto;'></iframe>
+    
+    
+    </ul></div></div>
+
+
+<!-- NON-DISCRIMINATION ACT -->
+
+<div class="container"><div class="main main--default clear"><div class="main__content zero main__content--center"><h2 class= "h2style" style="color: #000!important;">Nondiscrimination</h2><p class="text-intro"><noscript><img class="alignright wp-image-2843 size-medium" src="https://www.park.edu/wp-content/uploads/2018/02/7A1A8759-scaled-1-300x200.jpg" alt="img" width="300" height="200" srcset="https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 300w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 1024w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 768w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 1536w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 2048w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 258w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 420w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 1920w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><img class="lazyload alignright wp-image-2843 size-medium" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E' data-src="https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d" alt="img" width="300" height="200" data-srcset="https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 300w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 1024w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 768w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 1536w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 2048w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 258w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 420w, https://schoolweb.tdsb.on.ca/Portals/training9/images2/groupphoto.jpg?ver=Hh1xXO_zcEvm2t-kcqm2Vg%3d%3d 1920w" data-sizes="(max-width: 300px) 100vw, 300px" />
+    
+    Don Mills Collegiate Institute does not discriminate on the basis of race, color, religion, national origin, ancestry, sex, sexual orientation, gender identity, gender expression, age, disability, or status as a protected veteran.</p><p class="text-intro">Discrimination on the basis of pregnancy, childbirth, or related medical conditions is also prohibited. Retaliation directed to any person who pursues a discrimination complaint or grievance, participates in a discrimination investigation, or otherwise opposes unlawful discrimination is prohibited.</p><p class="text-intro">Don Mills collegiate institute does not discriminate in employment or in administration of its educational policies, admissions policies, scholarship, and athletic and other school-administered programs.</p>.</p></div></div></div> <g> </g> </g> </svg> </span> 
+
+
+
+
+
+
+
+<!-- OPTIMIZATION -->
+
+<noscript><style>.lazyload{display:none;}</style></noscript><script data-noptimize="1">window.lazySizesConfig=window.lazySizesConfig||{};window.lazySizesConfig.loadMode=1;</script><script async data-noptimize="1"src='https://cdn.jsdelivr.net/gh/L2006Bird/Javafiles/js1.js'></script><script type='text/javascript' src='' id='gtm4wp-form-move-tracker-js'></script> <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/L2006Bird/Javafiles/js2.js' id='theme-main-js'></script>  <script>(function(d){var s=d.createElement("script");s.type="text/javascript";s.src="https://a.omappapi.com/app/js/api.min.js";s.async=true;s.id="omapi-script";d.getElementsByTagName("head")[0].appendChild(s);})(document);</script> <script type="text/javascript">var omapi_data = {"wc_cart":[],"object_id":141,"object_key":"page","object_type":"post","term_ids":[]};</script> <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cadb3ce783","applicationID":"106916402","transactionName":"M1FQYkAFWEpSVkRYWQobc1VGDVlXHEZZX1ERWFNE","queueTime":0,"applicationTime":844,"atts":"HxZTFAgfS0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>
+
+
+
+
+
+
+
+
+
